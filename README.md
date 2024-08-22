@@ -1,5 +1,4 @@
 
-Discord Account:
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1189523423131615284)](https://discord.com/users/1189523423131615284)
 
