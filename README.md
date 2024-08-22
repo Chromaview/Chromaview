@@ -4,11 +4,8 @@ If you'd like to reach out, you have a couple of options:
 - **Issues Section**: For project-specific questions or issues, please use the [issues section](link-to-issues) of the relevant repository.
 - **Discord**: My Discord username is **I12 only #** (be sure to use the username, not the display name). You can also join my [support server]([link-to-support-server](https://discord.gg/n85xEVyARR)) for additional help.
 
-About Myself 🧑‍💻
-Yo, I'm i12, and I'm just getting started with front-end and back-end development, as well as HTML and CSS. I’m passionate about diving into new challenges and eager to learn everything I can about web development. I'm looking forward to sharing my journey with you, along with the projects and experiments I’m working on as I grow my skills.
-
-
-## Skills & Tools
+## About Myself 🧑‍💻
+Yo! I'm i12 , and I'm new to web development, exploring both front-end and back-end technologies. I'm excited to tackle new challenges and eager to learn and grow in this field. I look forward to sharing my journey, projects, and experiments with you as I build my skills.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1189523423131615284)](https://discord.com/users/1189523423131615284)
 
