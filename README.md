@@ -6,7 +6,6 @@ If you'd like to reach out.
 ## About Myself 🧑‍💻
 Yo! I'm i12 , and I'm new to web development, exploring both front-end and back-end technologies. I'm excited to tackle new challenges and eager to learn and grow in this field. I look forward to sharing my journey, projects, and experiments with you as I build my skills.
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1189523423131615284)](https://discord.com/users/1189523423131615284)
 
 
 
