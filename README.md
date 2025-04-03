@@ -1,16 +1,15 @@
 
 <h1 align="center">Hey, I'm i12 👋</h1>
-<h3 align="center">Passionate Developer | Frontend & Backend Enthusiast</h3>
+<h3 align="center">Passionate Developer | Frontend & Backend Developer</h3>
 
 🚀 **Exploring the Full Stack** | 🖥 **Building with Tailwind & Lua** | 🎯 **Focused on Clean Code**
 
 ---
 
-### 🌍 About Me:
+### 👋🏾 About Me:
 
 - 💡 Always learning and building new things  
 - 🎨 Love crafting sleek UIs with **Tailwind CSS**  
-- 💻 Experienced in **VS Code, Lua, HTML, CSS, JS**  
 - 🔧 Problem-solving and optimizing performance  
 
 > _"Code is like humor. When you have to explain it, it’s bad."_
@@ -42,4 +41,4 @@
 
 ### 📬 Connect with Me:
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/forcng)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n85xEVyARR)
