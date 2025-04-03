@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey, I'm i12 👋</h1>
+<h1 align="center">Yo, I'm i12 👋</h1>
 <h3 align="center">Passionate Developer | Frontend & Backend Developer</h3>
 
 🚀 **Exploring the Full Stack** | 🖥 **Building with Tailwind & Lua** | 🎯 **Focused on Clean Code**
