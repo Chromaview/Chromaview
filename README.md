@@ -43,3 +43,14 @@
 ### 📬 Connect with Me:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/n85xEVyARR)
+
+---
+
+### 📚 Documentation
+
+- Public API Reference: `docs/API.md`
+- Components Guide: `docs/COMPONENTS.md`
+- Backend & Services: `docs/BACKEND.md`
+- Writing & Maintaining Docs: `docs/CONTRIBUTING.md`
+
+Start with `docs/API.md` for a high-level index of available APIs. If you add new modules or components, please update the respective docs and include runnable examples.
